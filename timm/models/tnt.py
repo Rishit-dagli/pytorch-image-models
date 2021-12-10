@@ -36,6 +36,7 @@ default_cfgs = {
         mean=(0.5, 0.5, 0.5), std=(0.5, 0.5, 0.5),
     ),
     'tnt_b_patch16_224': _cfg(
+        url='https://storage.googleapis.com/rishit-dagli.appspot.com/tnt_b_82.9.pth.tar',
         mean=(0.5, 0.5, 0.5), std=(0.5, 0.5, 0.5),
     ),
 }
